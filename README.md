@@ -1,5 +1,5 @@
-# front-end-dashboard
-# Front-End Dashboard
+
+#Dashboard
 
 This project is a dashboard application built with React, TypeScript, Vite, and Tailwind CSS.
 
